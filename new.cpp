@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     double currentSalary;
-    double doublePercentage;
+    double incrementPercentage;
     double bonusPercentage;
     int exceptionalRate;
     int years;
@@ -12,7 +12,7 @@ int main() {
     cin >> currentSalary;
 
     cout << "Enter the yearly increment percentage (e.g., 5): ";
-    cin >> doublePercentage;
+    cin >> incrementPercentage;
 
     cout << "Enter the performance bonus percentage (e.g., 2): ";
     cin >> bonusPercentage;
@@ -24,7 +24,7 @@ int main() {
     cin >> years;
 
     for (int j = 1; j <= years; j++) {
-        double incrementAmount = currentSalary * (doublePercentage / 100);
+        double incrementAmount = currentSalary * (incrementPercentage / 100);
         currentSalary += incrementAmount;
 
         if (exceptionalRate == 1) {
