@@ -1,0 +1,16 @@
+﻿  new.cpp
+C:\Users\Student\source\repos\new\new\new.cpp(1,9): error C2143: syntax error: missing ';' before '<'
+C:\Users\Student\source\repos\new\new\new.cpp(1,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Student\source\repos\new\new\new.cpp(1,9): error C2059: syntax error: '<'
+C:\Users\Student\source\repos\new\new\new.cpp(11,5): error C2065: 'cout': undeclared identifier
+C:\Users\Student\source\repos\new\new\new.cpp(12,5): error C2065: 'cin': undeclared identifier
+C:\Users\Student\source\repos\new\new\new.cpp(14,5): error C2065: 'cout': undeclared identifier
+C:\Users\Student\source\repos\new\new\new.cpp(15,5): error C2065: 'cin': undeclared identifier
+C:\Users\Student\source\repos\new\new\new.cpp(17,5): error C2065: 'cout': undeclared identifier
+C:\Users\Student\source\repos\new\new\new.cpp(18,5): error C2065: 'cin': undeclared identifier
+C:\Users\Student\source\repos\new\new\new.cpp(20,5): error C2065: 'cout': undeclared identifier
+C:\Users\Student\source\repos\new\new\new.cpp(21,5): error C2065: 'cin': undeclared identifier
+C:\Users\Student\source\repos\new\new\new.cpp(23,5): error C2065: 'cout': undeclared identifier
+C:\Users\Student\source\repos\new\new\new.cpp(24,5): error C2065: 'cin': undeclared identifier
+C:\Users\Student\source\repos\new\new\new.cpp(35,9): error C2065: 'cout': undeclared identifier
+C:\Users\Student\source\repos\new\new\new.cpp(35,71): error C2065: 'endl': undeclared identifier
